@@ -25,15 +25,18 @@ sections:
   - block: stats
     content:
       items:
-        - statistic: "15"
+        - statistic: "175"
           description: |
             Publications
-        - statistic: "1,000+"
+        - statistic: "4943+"
           description: |
             Citations
-        - statistic: "78"
+        - statistic: "35"
           description: |
             h-index
+        - statistic: "73"
+          description: |
+            i10-index
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"

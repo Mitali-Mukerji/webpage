@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Prof.
+title: Mitali Mukerji
 
 # Name pronunciation (optional)
 name_pronunciation: ''
