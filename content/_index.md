@@ -16,7 +16,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: li-yang-5h_dMuX_7RE-unsplash.webp
+          filename: DJI_07323.jpg
           filters:
             brightness: 0.4
           size: cover
@@ -34,9 +34,6 @@ sections:
         - statistic: "35"
           description: |
             h-index
-        - statistic: "73"
-          description: |
-            i10-index
     design:
       # Section background color (CSS class)
       css_class: "bg-gray-100 dark:bg-gray-900"
